@@ -1,0 +1,8 @@
+[package]
+name = "zellij-getmode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lazy_static = "1.5.0"
+zellij-tile = "0.42.2"
