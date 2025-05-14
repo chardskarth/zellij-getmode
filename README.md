@@ -3,6 +3,8 @@
 This plugin is a simple utility plugin that gets the current input mode of
 Zellij.
 
+https://github.com/user-attachments/assets/a87081a8-fb9f-4b84-900c-1f7d76b082c4
+
 
 #### Disclaimer
 
@@ -27,3 +29,7 @@ cargo build --release --target wasm32-wasip1
 ```
 zellij pipe getmode
 ```
+
+
+
+
